@@ -6,7 +6,6 @@ on:
       - main
       - master
   workflow_dispatch:
-    
 jobs:
   production:
     runs-on: ubuntu-latest
